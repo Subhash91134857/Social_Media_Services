@@ -1,0 +1,12 @@
+POST http://localhost:3001/api/v1/user/register
+Content-Type: application/json
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+{
+    "email": "subhashpanday58@gmail.com",
+    "username": "subhash1",
+    "password": "subhash1"
+}
+
+
